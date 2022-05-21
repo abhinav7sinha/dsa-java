@@ -1,8 +1,5 @@
 package a7s.arrays;
 
-// { Driver Code Starts
-// Initial Template for Java
-
 import java.util.HashMap;
 
 public class FirstRepeatingElement {
