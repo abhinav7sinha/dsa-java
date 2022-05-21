@@ -7,7 +7,7 @@ https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/
  */
 public class KLargestElements {
     public static int[] kLargest(int[] arr, int n, int k) {
-        // code here
+        // TODO: to sort array in decreasing order, make use of the Comparator class
         Arrays.sort(arr);
         int[] sol = new int[k];
 

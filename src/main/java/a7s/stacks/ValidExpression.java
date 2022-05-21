@@ -10,7 +10,7 @@ public class ValidExpression {
 
     public static boolean valid(String s){
         /*
-        TODO: Using array deque might be faster than using stack class
+        TODO: Use array deque instead of stack class as it might be faster
          */
         Stack<Character> st=new Stack<>();
         for(int i=0; i<s.length(); i++){
