@@ -2,6 +2,10 @@ package a7s.stacks;
 
 import java.util.Stack;
 
+/*
+https://practice.geeksforgeeks.org/problems/valid-expression1025/1/
+ */
+
 public class ValidExpression {
 
     public static boolean valid(String s){

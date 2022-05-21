@@ -2,6 +2,10 @@ package a7s.arrays;
 
 import java.util.HashMap;
 
+/*
+https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1/
+ */
+
 public class FirstRepeatingElement {
 
     public static int firstRepeated(int[] arr, int n) {
